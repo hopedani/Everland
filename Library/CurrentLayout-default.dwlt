@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 915, y: 422}
   m_MaxSize: {x: 22010, y: 10022}
   vertical: 0
-  controlID: 846
+  controlID: 1826
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 422}
   m_MaxSize: {x: 4002, y: 8022}
   vertical: 1
-  controlID: 940
+  controlID: 1827
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -392,9 +392,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 72.32, y: 21.47, z: 60.69}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 72.32, y: 21.47, z: 60.69}
+    m_Value: {x: 0.000004310608, y: 0.0000012797117, z: 0.0000036174058}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -427,9 +427,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.027289636, y: 0.035077143, z: -0.00096231914, w: -0.99902517}
   m_Size:
-    m_Target: 4.1123037
+    m_Target: 22
     speed: 2
-    m_Value: 4.1123037
+    m_Value: 22.00003
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -591,23 +591,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 622f0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: d4e5ffffacefffff6cf1ffff78fbffff
+      m_SelectedIDs: 6aa30000
+      m_LastClickedID: 41834
+      m_ExpandedIDs: 8e60ffffca81ffff908dffff48adffffd8adffffccb5ffffd8b5ffffd0bbffff22dbffff78fbffff8c6100004a7000001c7200009a890000e4a200006aa30000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Button-Quests
+        m_OriginalName: Button-Quests
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: 41834
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 9}
       m_SearchString: 
@@ -656,20 +656,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\randompc\Documents\GitHub\Everland
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ec320000
-    m_LastClickedID: 13036
-    m_ExpandedIDs: 00000000a02d000054310000843100006c360000
+    m_SelectedIDs: b02d0000
+    m_LastClickedID: 11696
+    m_ExpandedIDs: 00000000b02d00008a310000bc310000e2360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -697,7 +697,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a02d000054310000843100006c360000
+    m_ExpandedIDs: 00000000b02d00008a310000bc310000e2360000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -724,7 +724,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c4580000c02c0000aea80000f6eed5005aaa00004e300000cc2e0000a233000014300000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
