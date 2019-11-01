@@ -12,6 +12,8 @@ TagManager:
   - SkillBar
   - Item
   - Weapon
+  - Enemy
+  - NPC
   layers:
   - Default
   - TransparentFX
