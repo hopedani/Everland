@@ -62,13 +62,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\ControlsTutorial.cs" />
-    <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\HintManagement.cs" />
-    <Compile Include="Assets\3rdPerson+Fly\Scripts\LevelScripts\ThirdPersonOrbitCamBasic.cs" />
-    <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\AimBehaviourBasic.cs" />
-    <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\BasicBehaviour.cs" />
-    <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
-    <Compile Include="Assets\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
+    <Compile Include="Assets\Characters\3rdPerson+Fly\Scripts\LevelScripts\ControlsTutorial.cs" />
+    <Compile Include="Assets\Characters\3rdPerson+Fly\Scripts\LevelScripts\HintManagement.cs" />
+    <Compile Include="Assets\Characters\3rdPerson+Fly\Scripts\LevelScripts\ThirdPersonOrbitCamBasic.cs" />
+    <Compile Include="Assets\Characters\3rdPerson+Fly\Scripts\PlayerScripts\AimBehaviourBasic.cs" />
+    <Compile Include="Assets\Characters\3rdPerson+Fly\Scripts\PlayerScripts\BasicBehaviour.cs" />
+    <Compile Include="Assets\Characters\3rdPerson+Fly\Scripts\PlayerScripts\FlyBehaviour.cs" />
+    <Compile Include="Assets\Characters\3rdPerson+Fly\Scripts\PlayerScripts\MoveBehaviour.cs" />
+    <Compile Include="Assets\Characters\LowPoly Fantasy Monsters Pack Ver1.0_Demo\Environment\Scripts\Move.cs" />
+    <Compile Include="Assets\Characters\LowPoly Fantasy Monsters Pack Ver1.0_Demo\Environment\Scripts\PointLight.cs" />
     <Compile Include="Assets\Hawk Quan\Q Inventory System\Example\3D\Scripts\CameraControl.cs" />
     <Compile Include="Assets\Hawk Quan\Q Inventory System\Example\3D\Scripts\Motor.cs" />
     <Compile Include="Assets\Hawk Quan\Q Inventory System\Scripts\AddItem.cs" />
@@ -138,18 +140,16 @@
     <Compile Include="Assets\Hawk Quan\Q Inventory System\Scripts\Vendor\InputFieldForVendor.cs" />
     <Compile Include="Assets\Hawk Quan\Q Inventory System\Scripts\Vendor\Vendor.cs" />
     <Compile Include="Assets\Hawk Quan\Q Inventory System\Scripts\Vendor\VendorTrigger.cs" />
-    <Compile Include="Assets\LowPoly Fantasy Monsters Pack Ver1.0_Demo\Environment\Scripts\Move.cs" />
-    <Compile Include="Assets\LowPoly Fantasy Monsters Pack Ver1.0_Demo\Environment\Scripts\PointLight.cs" />
     <Compile Include="Assets\Scripts\ButtonLogic.cs" />
+    <Compile Include="Assets\Scripts\Footsteps.cs" />
+    <Compile Include="Assets\Scripts\HeroStats.cs" />
     <Compile Include="Assets\Scripts\InputLogic.cs" />
     <Compile Include="Assets\Scripts\MiniMap.cs" />
     <Compile Include="Assets\Scripts\Quest.cs" />
     <Compile Include="Assets\Scripts\QuestManager.cs" />
     <Compile Include="Assets\Scripts\TitleScreen.cs" />
-    <None Include="Assets\LowPoly Fantasy Monsters Pack Ver1.0_Demo\READ ME FIRST!!!\character setup guide link.txt" />
     <None Include="Assets\Hawk Quan\Q Inventory System\ReadMe.txt" />
     <None Include="Assets\Hawk Quan\Q Inventory System\用户必读.txt" />
-    <None Include="Assets\LowPoly Fantasy Monsters Pack Ver1.0_Demo\READ ME FIRST!!!\read me.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/randompc/Documents/GitHub/Everland/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
