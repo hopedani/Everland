@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -14,7 +15,7 @@ MonoBehaviour:
   itemName: Helmet
   ID: 10
   icon: {fileID: 21300324, guid: bddecc020f6bf0445b97e3d1be62d39c, type: 3}
-  m_object: {fileID: 1647095692604624, guid: 1ab704b30edc1304aa079478edf39a91, type: 2}
+  m_object: {fileID: 1647095692604624, guid: 1ab704b30edc1304aa079478edf39a91, type: 3}
   isStackable: 0
   maxStackNumber: 1
   description: Better than nothing

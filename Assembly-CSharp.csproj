@@ -142,9 +142,11 @@
     <Compile Include="Assets\Hawk Quan\Q Inventory System\Scripts\Vendor\VendorTrigger.cs" />
     <Compile Include="Assets\Scripts\ButtonLogic.cs" />
     <Compile Include="Assets\Scripts\Footsteps.cs" />
+    <Compile Include="Assets\Scripts\HeroActions.cs" />
     <Compile Include="Assets\Scripts\HeroStats.cs" />
     <Compile Include="Assets\Scripts\InputLogic.cs" />
     <Compile Include="Assets\Scripts\MiniMap.cs" />
+    <Compile Include="Assets\Scripts\PropLogic.cs" />
     <Compile Include="Assets\Scripts\Quest.cs" />
     <Compile Include="Assets\Scripts\QuestManager.cs" />
     <Compile Include="Assets\Scripts\TitleScreen.cs" />

@@ -494,6 +494,7 @@ namespace QInventory
             {
                 Transform itemReplaced = itemParent.GetChild(0);
                 GameObjectData itemdata = itemReplaced.transform.GetComponent<GameObjectData>();
+                Debug.Log(itemdata);
                 Q_GameMaster.Instance.inventoryManager.playerInventoryManager.ClearEquipmentAttributeByItemAttribute(itemdata.item.equipmentItemAttributes);
                 inv.AddItem(itemdata.item, slot, amount);
                 Destroy(itemReplaced.gameObject);

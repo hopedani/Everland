@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   titleColor: {r: 0.9191176, g: 0.17571367, b: 0.17571367, a: 1}
   labelColor: {r: 0.47794116, g: 0.78397554, b: 1, a: 1}
-  createRigidbody2D: 1
+  createRigidbody2D: 0
   AutoChangeSprite: 1
