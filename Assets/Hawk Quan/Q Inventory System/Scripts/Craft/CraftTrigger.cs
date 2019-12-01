@@ -85,6 +85,8 @@ namespace QInventory
                 m_Panel.SetActive(false);
                 Q_GameMaster.Instance.inventoryManager.toolTip.Deactivate();
             }
+
+   
         }
 
         private void OnDrawGizmos()
